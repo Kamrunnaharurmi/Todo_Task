@@ -1,6 +1,10 @@
 # todo
 
-A new Flutter project.
+This Todo app for Android is a mobile application that helps users manage tasks efficiently. It typically includes features like:
+a. Task List: Displays a list of tasks, with the ability to add, & delete tasks.
+b. Task Details: Each task can have a title, description, date, and time.
+c. User Id: Users have to craete their own account by giving information.
+This app allows users to stay organized by keeping track of their to-dos in a simple and effective manner.
 
 ## Output
 ![12](https://github.com/user-attachments/assets/092e0fea-c004-49b2-ad65-19291365af3c)
